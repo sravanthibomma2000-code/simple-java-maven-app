@@ -71,13 +71,13 @@
         </executions>
       </plugin>
     </plugins>
-  </build><distributionManagement>
-  <repository>
+  </build>
+  <distributionManagement>
+  <trepository>
     <id>nexus</id>
     <name>Nexus Repository</name>
-    <url>http://<NEXUS-IP>:8081/repository/java-packages/</url>
+    <url>http://3.91.45.70:8081/repository/java-packages/</url>
   </repository>
 </distributionManagement>
-  
 </project>
 
