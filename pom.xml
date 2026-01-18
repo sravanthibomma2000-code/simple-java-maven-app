@@ -73,10 +73,10 @@
     </plugins>
   </build>
  <distributionManagement>
-  <snapshotrepository>
-    <id>nexus-shapshots</id>
+  <repository>
+    <id>nexus</id>
     <url>http://3.91.45.70:8081/repository/java-packages/</url>
-  </snapshotrepository>
+  </repository>
 </distributionManagement>
 </project>
 
