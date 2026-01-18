@@ -73,7 +73,7 @@
     </plugins>
   </build>
   <distributionManagement>
-  <trepository>
+  <repository>
     <id>nexus</id>
     <name>Nexus Repository</name>
     <url>http://3.91.45.70:8081/repository/java-packages/</url>
