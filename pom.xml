@@ -52,7 +52,7 @@
 <distributionManagement>
   <snapshotRepository>
     <id>nexus</id>
-    <url>http://98.92.136.174:8081/repository/my-snapshots/</url>
+    <url>http://44.200.153.231:8081/repository/my-snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
