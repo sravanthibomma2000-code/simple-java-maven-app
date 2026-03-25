@@ -52,7 +52,7 @@
 <distributionManagement>
   <snapshotRepository>
     <id>nexus</id>
-    <url>http://44.200.153.231:8081/repository/my-snapshots/</url>
+    <url>http://http://54.162.142.145:8081/repository/java-maven-packages/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
