@@ -76,7 +76,7 @@
   <repository>
     <id>nexus</id>
     <name>Nexus Release Repo</name>
-    <url>http://100.53.178.78:8081/repository/java-maven-packages/</url>
+    <url>http://44.220.148.116:8081/repository/java-maven-packages/url>
   </repository>
 </distributionManagement>
 </project>
